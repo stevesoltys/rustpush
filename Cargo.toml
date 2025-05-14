@@ -33,7 +33,7 @@ async-trait = "0.1.73"
 flume = "0.11.0"
 icloud_auth = { git = "https://github.com/openbubbles/apple-private-apis", rev = "a3b124439e3989312d55c4b55c60499e987f9f1d" }
 omnisette = { git = "https://github.com/openbubbles/apple-private-apis", rev = "a3b124439e3989312d55c4b55c60499e987f9f1d" }
-open-absinthe = { path = "./open-absinthe", optional = true }
+open-absinthe = { git = "https://github.com/stevesoltys/openbubbles-build-modules", optional = true }
 deku = "0.16.0"
 zip = { version = "2.1.5", default-features = false, features = ["deflate-zlib"] }
 rasn = "0.16.0"
