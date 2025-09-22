@@ -2,3 +2,7 @@
 	path = apple-private-apis
 	url = https://github.com/OpenBubbles/apple-private-apis.git
 	branch = master
+[submodule "openbubbles-build-modules"]
+	path = openbubbles-build-modules
+	url = https://github.com/stevesoltys/openbubbles-build-modules.git
+	branch = master
